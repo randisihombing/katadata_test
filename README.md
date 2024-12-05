@@ -16,7 +16,7 @@
 
 ## Fetching Data Articles
 
-![](../../../../var/folders/fs/4hrgy5kd5rv7t1bnsq2z57tjv4k31z/T/TemporaryItems/NSIRD_screencaptureui_i0hsAq/Screen Shot 2024-12-05 at 16.38.23.png)
+
 
 ##Load More
 
