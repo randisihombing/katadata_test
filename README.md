@@ -11,6 +11,7 @@
 ## Screenshot hasil
 
 ###Splash Screen 
+
 ![](../../Desktop/Screen Shot 2024-12-05 at 16.20.26.png)
 
 ### Fetching Data Articles
